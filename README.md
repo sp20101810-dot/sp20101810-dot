@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**sp20101810-dot/sp20101810-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Surya Prakash V 👋
 
-Here are some ideas to get you started:
+I'm a Class 11 student studying Physics, Chemistry, Mathematics, and Computer Science, currently preparing for JEE. I love bridging the gap between hardware and software, from configuring Linux systems to building database-driven Python applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- **Academic Scripts:** Modeling Physics derivations and balancing Chemistry redox reactions using Python.
+- **Systems & Networking:** Tinkering with Pi-hole deployments on Raspberry Pi and deploying microcontroller setups with ESP8266.
+- **Linux Environments:** Working across Lubuntu, Ubuntu, Kali Linux, and Zorin OS for terminal environment management.
+- **Current Focus:** Refining my Python Bakery Management System and expanding on project ideas from PEC Hacks 4.0.
+
+## 🛠️ Languages and Tools
+* **Languages:** Python, SQL
+* **OS & Tools:** Linux, Git, Virtual Machines
+* **Hardware:** PC Troubleshooting, Raspberry Pi, ESP8266, IoT Sensors
+
+## 📈 GitHub Stats
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp20101810-dot&show_icons=true&theme=tokyo-night)
