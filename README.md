@@ -14,5 +14,3 @@ I'm a Class 11 student studying Physics, Chemistry, Mathematics, and Computer Sc
 * **OS & Tools:** Linux, Git, Virtual Machines
 * **Hardware:** PC Troubleshooting, Raspberry Pi, ESP8266, IoT Sensors
 
-## 📈 GitHub Stats
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp20101810-dot&show_icons=true&theme=tokyo-night)
